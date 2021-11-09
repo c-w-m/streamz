@@ -1,4 +1,5 @@
-Streamz
+
+`Streamz <https://github.com/python-streamz/streamz>`_
 =======
 
 |Build Status| |Doc Status| |Version Status| |RAPIDS custreamz gpuCI|
